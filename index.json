@@ -1,0 +1,19 @@
+{
+    "name": "Example Repo",
+    "icon": "icon.jpg",
+    "path": "emotes",
+    "emotes" : [
+        {
+            "name": "imageone",
+            "type": "png"
+        },
+        {
+            "name": "imagetwo",
+            "type": "gif"
+        },
+        {
+            "name": "imagethree",
+            "type": "jpg"
+        }
+    ]
+}
