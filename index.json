@@ -1,19 +1,80 @@
 {
-    "name": "Example Repo",
-    "icon": "icon.jpg",
+    "name": "Nebula's Repo",
+    "icon": "icon.png",
     "path": "emotes",
-    "emotes" : [
+    "emotes": [
         {
-            "name": "imageone",
+            "name": "androidskull",
             "type": "png"
         },
         {
-            "name": "imagetwo",
+            "name": "catroll",
             "type": "gif"
         },
         {
-            "name": "imagethree",
-            "type": "jpg"
+            "name": "flooshed",
+            "type": "png"
+        },
+        {
+            "name": "flowercat",
+            "type": "gif"
+        },
+        {
+            "name": "fr",
+            "type": "png"
+        },
+        {
+            "name": "frcursed",
+            "type": "png"
+        },
+        {
+            "name": "kirby",
+            "type": "gif"
+        },
+        {
+            "name": "moyai",
+            "type": "png"
+        },
+        {
+            "name": "pleading",
+            "type": "png"
+        },
+        {
+            "name": "rip",
+            "type": "png"
+        },
+        {
+            "name": "sus",
+            "type": "png"
+        },
+        {
+            "name": "troll",
+            "type": "png"
+        },
+        {
+            "name": "uhh",
+            "type": "png"
+        },
+        {
+            "name": "vibeok",
+            "type": "png"
+        },
+        {
+            "name": "void",
+            "type": "png"
+        },
+        {
+            "name": "what",
+            "type": "png"
+        },
+        {
+            "name": "wholesome",
+            "type": "png"
+        },
+        {
+            "name": "yay",
+            "type": "gif"
         }
-    ]
+    ],
+    "author": "Nebula"
 }
